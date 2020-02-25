@@ -1,0 +1,13 @@
+.marg {
+  margin: 32px 10% 0 10%;
+}
+
+#imgs {
+  padding: 0 0.1% 0 0.1%;
+}
+
+@media screen and (max-width: 1004px) {
+  .website {
+    height: 590px;
+  }
+}
