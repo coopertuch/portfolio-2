@@ -6,7 +6,7 @@
   padding: 0 0.1% 0 0.1%;
 }
 
-@media screen and (max-width: 1004px) {
+@media screen and (max-width: 753px) {
   .website {
     height: 590px;
   }
